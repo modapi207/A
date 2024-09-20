@@ -1,2 +1,3 @@
 4주차 수업내용
+-git fetch
 -git pull
